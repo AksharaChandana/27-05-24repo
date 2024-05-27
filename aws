@@ -1,3 +1,5 @@
 hi
 this is aws
 adding data in central
+pull=fetch +merge
+
